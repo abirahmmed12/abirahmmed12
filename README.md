@@ -1,6 +1,7 @@
 <h1 align="center">Hi there</h1> 
 <h3 align='center'> I am <span>Abir Ahmmed Chowdhury</span></h3>
 <p align='left'>React developer, exploring full-stack development. Enthusiastic about creating seamless web experiences.</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abirahmmed12&label=Profile%20views&color=0e75b6&style=flat" alt="raddn" /> </p>
 <img src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" alt="Coding" width="400" align="right">
 
 ## Connect with me
