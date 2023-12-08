@@ -1,6 +1,7 @@
 <h1 align="center">Hi there</h1> 
 <h3 align='center'> I am <span>Abir Ahmmed Chowdhury</span></h3>
 <p align='left'>Welcome to my GitHub profile..</p>
+<img src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" alt="Coding" width="400" align="right">
 
 ## Connect with me
  ![LinkedIn Badge](https://img.shields.io/badge/Linkedin-%230A66C2?style=for-the-badge&logo=linkedin&link=https://www.linkedin.com/in/abirahmmed12/) &nbsp;![Gmail Badge](https://img.shields.io/badge/Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=%23EA4335&labelColor=white&link=mailto:abirahmedchowdhury12@gmail.com)
