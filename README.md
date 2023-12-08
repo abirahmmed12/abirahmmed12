@@ -1,12 +1,12 @@
-<h1 align="center">Hi there my gorgeous friend </h1> 
-<h3 align='center'> I am <span>Bayajid Alam Joyel</span> An enthusiastic Programmer from Cumilla, Bangladesh</h3>
-<p align='left'>Welcome to my GitHub profile. I am an aspiring Full Stack Developer with strong knowledge and a keen interest in software development and problem-solving. I am focused to learn new technologies every day, solve real-life problems, and make a positive impact on the world.</p>
+<h1 align="center">Hi there</h1> 
+<h3 align='center'> I am <span>Abir Ahmmed Chowdhury</span></h3>
+<p align='left'>Welcome to my GitHub profile..</p>
 
 ## Connect with me
- ![LinkedIn Badge](https://img.shields.io/badge/Linkedin-%230A66C2?style=for-the-badge&logo=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fbayajid-alam-joyel) &nbsp; ![Gmail Badge](https://img.shields.io/badge/Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=%23EA4335&labelColor=white&link=bayajidalam2001%40gmail.com) &nbsp;
+ ![LinkedIn Badge](https://img.shields.io/badge/Linkedin-%230A66C2?style=for-the-badge&logo=linkedin&link=https://www.linkedin.com/in/abirahmmed12/) &nbsp;![Gmail Badge](https://img.shields.io/badge/Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=%23EA4335&labelColor=white&link=mailto:abirahmedchowdhury12@gmail.com)
 
 ### Problem solving
-![CodeForces Badge](https://img.shields.io/badge/CodeForces-%231F8ACB?style=for-the-badge&logo=codeforces&logoColor=codeforces&labelColor=white&link=https%3A%2F%2Fcodeforces.com%2Fprofile%2FBayajid_Alam) &nbsp;
+![CodeForces Badge](https://img.shields.io/badge/CodeForces-%231F8ACB?style=for-the-badge&logo=codeforces&logoColor=codeforces&labelColor=https://codeforces.com/profile/Abir_12) &nbsp;
 
 
 
@@ -42,9 +42,9 @@
 
 
 <div align="center" >
-  <img src="https://github-readme-stats.vercel.app/api?username=BayajidAlam&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BayajidAlam&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=abirahmmed12&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=true&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abirahmmed12&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bayajidalam&" alt="bayajidalam" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abirahmmed12&" alt="abirahmmed12" /></p>
