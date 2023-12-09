@@ -3,14 +3,23 @@
 <h1 align='center'> I am <span>Abir Ahmmed Chowdhury</span></h1>
 <h3 align='left'>React developer, exploring full-stack development. Enthusiastic about creating seamless web experiences.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abirahmmed12&label=Profile%20views&color=0e75b6&style=flat" alt="raddn" /> </p>
-
 ## Connect with me
 
-[![LinkedIn Badge](https://img.shields.io/badge/Linkedin-%230A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/abirahmmed12/) &nbsp; [![Gmail Badge](https://img.shields.io/badge/Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=%23EA4335&labelColor=white)](mailto:abirahmedchowdhury12@gmail.com)
+<div onclick="window.location.href='https://www.linkedin.com/in/abirahmmed12/'">
+  <img src="https://img.shields.io/badge/Linkedin-%230A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge">
+</div>
+&nbsp; 
+<div onclick="window.location.href='mailto:abirahmedchowdhury12@gmail.com'">
+  <img src="https://img.shields.io/badge/Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=%23EA4335&labelColor=white" alt="Gmail Badge">
+</div>
 
 ### Problem solving
 
-[![CodeForces Badge](https://img.shields.io/badge/CodeForces-%231F8ACB?style=for-the-badge&logo=codeforces&logoColor=codeforces&labelColor)](https://codeforces.com/profile/Abir_12) &nbsp;
+<div onclick="window.location.href='https://codeforces.com/profile/Abir_12'">
+  <img src="https://img.shields.io/badge/CodeForces-%231F8ACB?style=for-the-badge&logo=codeforces&logoColor=codeforces&labelColor" alt="CodeForces Badge">
+</div>
+&nbsp;
+
 
 
 
