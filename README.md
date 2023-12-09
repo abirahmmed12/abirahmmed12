@@ -4,12 +4,14 @@
 <h3 align='left'>React developer, exploring full-stack development. Enthusiastic about creating seamless web experiences.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abirahmmed12&label=Profile%20views&color=0e75b6&style=flat" alt="raddn" /> </p>
 
-
 ## Connect with me
- ![LinkedIn Badge](https://img.shields.io/badge/Linkedin-%230A66C2?style=for-the-badge&logo=linkedin&link=https://www.linkedin.com/in/abirahmmed12/) &nbsp;![Gmail Badge](https://img.shields.io/badge/Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=%23EA4335&labelColor=white&link=mailto:abirahmedchowdhury12@gmail.com)
+
+[![LinkedIn Badge](https://img.shields.io/badge/Linkedin-%230A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/abirahmmed12/) &nbsp; [![Gmail Badge](https://img.shields.io/badge/Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=%23EA4335&labelColor=white)](mailto:abirahmedchowdhury12@gmail.com)
 
 ### Problem solving
-![CodeForces Badge](https://img.shields.io/badge/CodeForces-%231F8ACB?style=for-the-badge&logo=codeforces&logoColor=codeforces&labelColor=https://codeforces.com/profile/Abir_12) &nbsp;
+
+[![CodeForces Badge](https://img.shields.io/badge/CodeForces-%231F8ACB?style=for-the-badge&logo=codeforces&logoColor=codeforces&labelColor)](https://codeforces.com/profile/Abir_12) &nbsp;
+
 
 
 
