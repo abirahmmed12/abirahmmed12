@@ -2,7 +2,7 @@
 <img src="https://i.ibb.co/G7g6kc7/srkismyf176145gm.jpg" />
 </a>
 
-## I am Abir Ahmmed Chowdhuru
+## I am Abir Ahmmed Chowdhuruy
 A highly motivated and detail-oriented Computer Science student at CCN University of Science and Technology with a strong foundation in programming languages including C and JavaScript. Eager to apply my academic knowledge and programming skills to real-world projects, contributing to innovative solutions and gaining practical experience in the field of Computer Science.React developer, exploring full-stack development
 <br>
 
