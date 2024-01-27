@@ -54,4 +54,4 @@ A highly motivated and detail-oriented Computer Science student at CCN Universit
 </p>
 
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abirahmmed12&" alt="abirahmmed12" /></p>
+
